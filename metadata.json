@@ -1,0 +1,10 @@
+{
+  "name": "Messages",
+  "description": "Sci-fi HUD SMS app for Android: default SMS app, conversations, search, reply from notification.",
+  "version": "1.0.0",
+  "ageRating": "3+",
+  "type": "app",
+  "containsAds": false,
+  "category": "Communication",
+  "author": "Mohammad Mahfuz Rahman"
+}
